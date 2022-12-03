@@ -1,0 +1,12 @@
+D:\DUserC\DUserC\bin\Debug\DUserC.exe.config
+D:\DUserC\DUserC\bin\Debug\DUserC.exe
+D:\DUserC\DUserC\bin\Debug\DUserC.pdb
+D:\DUserC\DUserC\obj\Debug\DUserC.csproj.AssemblyReference.cache
+D:\DUserC\DUserC\obj\Debug\DUserC.csproj.SuggestedBindingRedirects.cache
+D:\DUserC\DUserC\obj\Debug\DUserC.Form1.resources
+D:\DUserC\DUserC\obj\Debug\DUserC.Properties.Resources.resources
+D:\DUserC\DUserC\obj\Debug\DUserC.ucState.resources
+D:\DUserC\DUserC\obj\Debug\DUserC.csproj.GenerateResource.cache
+D:\DUserC\DUserC\obj\Debug\DUserC.csproj.CoreCompileInputs.cache
+D:\DUserC\DUserC\obj\Debug\DUserC.exe
+D:\DUserC\DUserC\obj\Debug\DUserC.pdb
